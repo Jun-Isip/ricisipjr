@@ -1,8 +1,6 @@
 # ricisipjr
 # Phantom UI: The Generative Actuation Paradigm
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Status: Concept/Specification](https://img.shields.io/badge/Status-Specification-blue.svg)]()
 
 > "The interface of tomorrow shouldn't be a permanent fixture on our screens. It should be a phantom—materializing precisely when needed, dancing with our intent, and vanishing without a trace."
 
@@ -130,6 +128,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for details on submitting architectural e
 
 ---
 
-## License
+Note: This document details the conceptual framework for "Phantom UI." All original design logic and terminology are the intellectual property of the author. Permissions beyond those granted by the CC BY-NC-ND license must be obtained in writing.
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+License: This work is licensed under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+You are free to share, copy, and redistribute this material in any medium or format, provided that you give appropriate credit to the author, do not use this work for commercial purposes, and do not distribute any modified or derivative versions of this text.
